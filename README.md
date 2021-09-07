@@ -1,2 +1,2 @@
 # springboot-demo
-To Showcase Spring Boot  CRUD operations with Postgres database 
+To Showcase Spring Boot CRUD operations with PostgreSQL database 
